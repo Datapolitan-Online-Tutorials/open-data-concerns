@@ -135,5 +135,5 @@ exclude:true
 class:middle,center
 # Thank You!
 
-## And go find some open data!
+## And go find some open data <br>about your community!
 
