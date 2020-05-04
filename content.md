@@ -112,16 +112,11 @@ class:center,middle
 + Timeliness
 
 ---
+exclude:true
 
 # Ways to Learn More
---
-
 + [Open Data Handbook](http://opendatahandbook.org/)
---
-
 + [State of the Union of Open Data](https://www.datafoundation.org/the-state-of-the-union-of-open-data-ed-3)
---
-
 + [Open Data 500](https://www.opendata500.com/)
 
 ---
