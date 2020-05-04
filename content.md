@@ -132,7 +132,8 @@ class:center,middle
 + Connect on [Twitter](https://twitter.com/Datapolitan)
 + Connect on [LinkedIn](https://www.linkedin.com/in/richarddunks/)
 + Follow us on [Instagram](https://www.instagram.com/datapolitan/)
-+ Follow us on [Eventbrite](https://www.eventbrite.com/o/datapolitan-18675558166) to learn about workshops
++ Follow us on [Eventbrite](https://www.eventbrite.com/o/datapolitan-18675558166) to learn about our workshops
+
 
 ---
 
