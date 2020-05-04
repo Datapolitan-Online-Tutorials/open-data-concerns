@@ -26,9 +26,9 @@ class: center,middle
 
 ###### &nbsp;
 
-### Follow along at: 
+### Follow along at: https://bit.ly/open-data-concerns
 
-#### See the code at: 
+#### See the code at: https://bit.ly/open-data-concerns-code
 
 <p class="license-text"><strong><strong>The Concerns of Open Data</strong></strong> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.datapolitan.com" property="cc:attributionName" rel="cc:attributionURL">Richard Dunks</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a></p>
 
