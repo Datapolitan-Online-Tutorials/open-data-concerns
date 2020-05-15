@@ -87,6 +87,7 @@ class:center,middle
 
 
 ![img-center-100](images/govex_privacy_matrix.png)
+.caption[The Center for Government Excellence's [Privacy Matrix](https://govex.jhu.edu/wiki/privacy_matrix/)]
 
 ---
 
