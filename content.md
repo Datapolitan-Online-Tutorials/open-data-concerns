@@ -95,6 +95,7 @@ class:center,middle
 --
 
 + Identify sensitive infrastructure
+--
 
 
 [![img-center-90](images/open_sewer_atlas.png)](http://openseweratlas.tumblr.com/map)
