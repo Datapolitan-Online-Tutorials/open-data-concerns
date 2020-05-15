@@ -83,6 +83,10 @@ class:center,middle
 # Privacy
 + Personally identifiable information (PII)
 + [Mosaic Effect](https://fcw.com/articles/2014/05/13/fose-mosaic.aspx)
+--
+
+
+![img-center-100](images/govex_privacy_matrix.png)
 
 ---
 
