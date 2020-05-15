@@ -91,6 +91,29 @@ class:center,middle
 
 ---
 
+# Reliability
+--
+
++ Accuracy
+--
+
+[![img-center-45](images/aus_fire_app.png)](https://www.timberbiz.com.au/fire-app-sync-reality/)
+
+.caption[Source: [TimberBiz](https://www.timberbiz.com.au/fire-app-sync-reality/)]
+
+---
+
+# Reliability
++ Accuracy
++ Timeliness
+--
+
+[![img-center-90](images/noaa_cdc.png)](https://www.ncdc.noaa.gov/cdo-web/)
+
+.caption[[NOAA National Climatic Data Center](https://www.ncdc.noaa.gov/cdo-web/)]
+
+---
+
 # Security
 --
 
@@ -103,19 +126,10 @@ class:center,middle
 
 ---
 
+exclude: true
 # Security
 + Identify sensitive infrastructure
 + Describe methods and procedures
-
----
-
-# Reliability
---
-
-+ Accuracy
---
-
-+ Timeliness
 
 ---
 exclude:true
